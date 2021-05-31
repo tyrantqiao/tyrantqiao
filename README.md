@@ -40,9 +40,7 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java         14 hrs 29 mins  █████████████████████▓░░░   87.18 % 
-SQL          1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
