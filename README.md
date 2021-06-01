@@ -1,4 +1,6 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   ![](https://komarev.com/ghpvc/?username=tyrantqiao&color=dc143c)
+
+
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
@@ -27,7 +29,7 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 <!-- 简历，待补充 -->
 <!-- - 📝 [Resume](https://drive.google.com/file/d/tyrantqiao/view) -->
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -38,10 +40,13 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 <code><img height="20" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/java.svg"></code>
 
 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -51,7 +56,3 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tyrantqiao&show_icons=true&theme=gotham" alt="tyrantqiao" />
-
-
-
-
