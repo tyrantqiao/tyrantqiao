@@ -35,7 +35,7 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/redis.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/springio-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/iconmonstr-coffee-7.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/java.svg"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -47,15 +47,6 @@ No Activity tracked this Week
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/tyrantqiao" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 📈 My GitHub Stats
 
