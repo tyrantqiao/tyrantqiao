@@ -5,13 +5,13 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
 <a href="https://twitter.com/tyrant_qiao">
-  <img align="left" alt="TyrantQiao | Twitter" width="22px" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/iconmonstr-twitter-1.svg" />
+  <img align="left" alt="TyrantQiao | Twitter" width="22px" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/icons8-twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tyrantqiao/">
-  <img align="left" alt="TyrantQiao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/iconmonstr-linkedin-3.svg" />
+  <img align="left" alt="TyrantQiao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/7702483/tyrantqiao">
-  <img align="left" alt="TyrantQiao's stackoverflow" width="22px" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/iconmonstr-stackoverflow-1.svg" />
+  <img align="left" alt="TyrantQiao's stackoverflow" width="22px" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/stack-overflow.svg" />
 </a>
 
 <!-- 待设置visitors数量 -->
