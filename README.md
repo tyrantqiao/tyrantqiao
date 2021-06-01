@@ -42,11 +42,15 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
 ```text
-No Activity tracked this Week
-```
+Week: 24 May, 2021 - 31 May, 2021
 
+Markdown     15 mins         ████████▓░░░░░░░░░░░░░░░░   35.00 % 
+YAML         13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.39 % 
+Other        8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.54 % 
+JavaScript   6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+SQL          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
