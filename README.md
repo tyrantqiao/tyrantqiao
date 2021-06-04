@@ -45,11 +45,11 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 ```text
 Week: 27 May, 2021 - 03 June, 2021
 
-Other        2 hrs 40 mins   ████████████░░░░░░░░░░░░░   48.35 % 
-Markdown     2 hrs 7 mins    █████████▓░░░░░░░░░░░░░░░   38.37 % 
-YAML         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Other        3 hrs 34 mins   █████████████▒░░░░░░░░░░░   53.97 % 
+Markdown     2 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.83 % 
+YAML         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 <!--END_SECTION:waka-->
 
