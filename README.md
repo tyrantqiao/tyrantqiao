@@ -45,8 +45,8 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 ```text
 Week: 02 June, 2021 - 09 June, 2021
 
-Other        10 hrs 22 mins  ██████████████████████░░░   87.99 % 
-Markdown     1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Other        10 hrs 19 mins  ██████████████████████░░░   88.16 % 
+Markdown     1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
