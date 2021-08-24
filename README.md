@@ -43,7 +43,7 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 August, 2021 - 22 August, 2021
+Week: 17 August, 2021 - 23 August, 2021
 
 Markdown     46 mins         ██████████████████████▓░░   91.09 % 
 Java         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
