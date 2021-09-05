@@ -43,7 +43,13 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 29 August, 2021 - 04 September, 2021
+
+JavaScript   38 mins         ██████████░░░░░░░░░░░░░░░   39.42 % 
+Markdown     25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.38 % 
+EJS          16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Other        13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 <!--END_SECTION:waka-->
 
