@@ -43,7 +43,7 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2021 - 13 September, 2021
+Week: 08 September, 2021 - 14 September, 2021
 
 SCSS         13 mins         ████████████████████▒░░░░   81.97 % 
 SQL          2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 % 
