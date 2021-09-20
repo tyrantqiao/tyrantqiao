@@ -45,11 +45,11 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 ```text
 Week: 13 September, 2021 - 19 September, 2021
 
-Java       1 hr 4 mins     ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-YAML       54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.90 % 
-Markdown   44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
-EJS        24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-SCSS       23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Java       1 hr 4 mins     ███████▒░░░░░░░░░░░░░░░░░   29.25 % 
+YAML       54 mins         ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Markdown   44 mins         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+EJS        24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+SCSS       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 <!--END_SECTION:waka-->
 
