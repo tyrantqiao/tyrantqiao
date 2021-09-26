@@ -45,8 +45,8 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 ```text
 Week: 19 September, 2021 - 25 September, 2021
 
-Markdown   59 mins         ████████████████████████▒   97.76 % 
-Java       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Markdown   1 hr 53 mins    ████████████████████████▓   98.80 % 
+Java       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 <!--END_SECTION:waka-->
 
