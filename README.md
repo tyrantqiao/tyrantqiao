@@ -43,7 +43,9 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 December, 2021 - 11 December, 2021
+
+Markdown   9 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
