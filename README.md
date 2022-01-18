@@ -21,7 +21,7 @@
 
 Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer and a freelance software engineer from GuangZhou. My passion for software lies with turning my dreams to actual project. I take great care in the experience, architecture, and code quality of the things I build.
 
-  <img align="right" alt="Tyrantqiao's logo" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/avatar_logo.jpg" width="500" height="500" />
+  <img align="right" alt="Tyrantqiao's logo" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/avatar_logo.jpg" width="300" height="500" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@tyrantqiao](https://twitter.com/tyrant_qiao);
