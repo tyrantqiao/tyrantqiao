@@ -42,9 +42,11 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
