@@ -42,7 +42,7 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,48 +58,6 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
  > 
 > 🔑 3 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    132 commits    █████████░░░░░░░░░░░░░░░░   39.4% 
-🌆 Daytime    40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-🌃 Evening    132 commits    █████████░░░░░░░░░░░░░░░░   39.4% 
-🌙 Night      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.25%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
-Tuesday      55 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42% 
-Wednesday    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-Thursday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-Friday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.15% 
-Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.67% 
-Sunday       74 commits     █████░░░░░░░░░░░░░░░░░░░░   22.09%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -117,7 +75,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tyrantqiao/tyrantqiao/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 06:10:28 UTC
+ Last Updated on 04/09/2022 08:13:41 UTC
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
