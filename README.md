@@ -50,7 +50,7 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 
 > 🏆 24 Contributions in the Year 2022
  > 
-> 📦 678.1 kB Used in GitHub's Storage 
+> 📦 678.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -117,7 +117,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tyrantqiao/tyrantqiao/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/09/2022 12:17:46 UTC
+ Last Updated on 28/09/2022 14:28:49 UTC
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
