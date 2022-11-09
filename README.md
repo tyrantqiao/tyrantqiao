@@ -58,6 +58,48 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    125 commits    ██████████░░░░░░░░░░░░░░░   39.56% 
+🌆 Daytime    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
+🌃 Evening    125 commits    ██████████░░░░░░░░░░░░░░░   39.56% 
+🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.86%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Tuesday      54 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
+Wednesday    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
+Thursday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
+Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
+Sunday       67 commits     █████░░░░░░░░░░░░░░░░░░░░   21.2%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -75,7 +117,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tyrantqiao/tyrantqiao/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 16:12:55 UTC
+ Last Updated on 09/11/2022 18:11:48 UTC
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
