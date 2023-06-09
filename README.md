@@ -4,9 +4,15 @@
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
+<!--
 <a href="https://twitter.com/tyrant_qiao">
   <img align="left" alt="TyrantQiao | Twitter" width="22px" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/icons8-twitter.svg" />
+</a> -->
+
+<a href="https://www.facebook.com/qiao.tyrant">
+ <img align="left" alt="TyrantQiao | Facebook" width="22px" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/icons8-facebook.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/tyrantqiao/">
   <img align="left" alt="TyrantQiao's LinkedIN" width="22px" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/linkedin.svg" />
 </a>
@@ -23,8 +29,8 @@ Hi, I'm [Tyrant Qiao](https://tyrantqiao.com/), a passionate backend developer a
 
   <img align="right" alt="Tyrantqiao's logo" src="https://raw.githubusercontent.com/tyrantqiao/picgo/master/img/cat_with_ball.jpg" width="400" height="500" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@tyrantqiao](https://twitter.com/tyrant_qiao);
+- 💬 Ask me about anything, happy to share;
+- 📫 How to reach me: [@tyrantqiao](https://www.facebook.com/qiao.tyrant);
 - 📪 Email: <a href="mailto:tyrantqiao@gmail.com">mail to me</a>
 <!-- 简历，待补充 -->
 <!-- - 📝 [Resume](https://drive.google.com/file/d/tyrantqiao/view) -->
